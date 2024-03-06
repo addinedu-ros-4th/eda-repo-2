@@ -1,4 +1,4 @@
-# eda-repo-2
+![image](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/e4ae6d6b-a857-4863-9e07-d6b5fb4612fa)# eda-repo-2
 # EDA 프로젝트 2조 저장소. 서울 자치구별 등록된 전기차와 충전소 분석을 통한 알쓸신잡
 ![Screenshot from 2024-03-06 15-56-27](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/0b3df982-d1a5-421a-97e4-e9218812918b)
 ---
@@ -34,3 +34,10 @@
 ![Screenshot from 2024-03-06 16-13-23](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/106625bd-e16d-4530-b3fe-8d8462216c73)
 ![Screenshot from 2024-03-06 16-13-27](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/1552a45b-cbd0-440a-ac42-593e286bcfbc)
 ![Screenshot from 2024-03-06 16-13-33](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/65677758-8027-4fe2-ae24-7875f28c9578)
+---
+### 8. 서울시 내 전기차 용도별(사업/비사업) 분석
+![Screenshot from 2024-03-06 16-16-22](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/771284ea-d5f4-4c4a-8b77-d59e62f1e346)
+![Screenshot from 2024-03-06 16-16-30](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/bc5d9eae-d0af-4ea0-aa12-5fb76590cb01)
+![Screenshot from 2024-03-06 16-16-34](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/9910dd6b-6c34-436a-8625-7bdc8bc4be33)
+![Screenshot from 2024-03-06 16-16-44](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/845be330-ee92-4429-88ac-f95e0ef3deb0)
+![Screenshot from 2024-03-06 16-16-47](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/e962d50a-c9a1-475a-ae23-77ac4d8aefeb)
