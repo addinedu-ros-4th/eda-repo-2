@@ -39,5 +39,4 @@
 ![Screenshot from 2024-03-06 16-16-22](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/771284ea-d5f4-4c4a-8b77-d59e62f1e346)
 ![Screenshot from 2024-03-06 16-16-30](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/bc5d9eae-d0af-4ea0-aa12-5fb76590cb01)
 ![Screenshot from 2024-03-06 16-16-34](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/9910dd6b-6c34-436a-8625-7bdc8bc4be33)
-![Screenshot from 2024-03-06 16-16-44](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/845be330-ee92-4429-88ac-f95e0ef3deb0)
 ![Screenshot from 2024-03-06 16-16-47](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/e962d50a-c9a1-475a-ae23-77ac4d8aefeb)
