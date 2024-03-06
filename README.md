@@ -40,3 +40,14 @@
 ![Screenshot from 2024-03-06 16-16-30](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/bc5d9eae-d0af-4ea0-aa12-5fb76590cb01)
 ![Screenshot from 2024-03-06 16-16-34](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/9910dd6b-6c34-436a-8625-7bdc8bc4be33)
 ![Screenshot from 2024-03-06 16-16-47](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/e962d50a-c9a1-475a-ae23-77ac4d8aefeb)
+---
+### 9. 전기차 충전 방해 종류에 관한 시각화
+![Screenshot from 2024-03-06 16-19-44](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/0cf7f2e3-61ea-46e5-9607-da0546ced20d)
+---
+### 10. 충전소 갯수와 전기차 수에 따른 충전방해(민원)건수
+![Screenshot from 2024-03-06 16-20-23](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/21968991-d965-4563-b93c-098818e5f946)
+--- 
+### 11. 구별 충전소 전기차 비율과 상관관계
+![Screenshot from 2024-03-06 16-21-00](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/099606d8-c299-4891-85c3-16e022a78ea2)
+![Screenshot from 2024-03-06 16-22-55](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/24096301-564c-4811-8868-980777a90f1b)
+![Screenshot from 2024-03-06 16-22-58](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/b8839167-debd-42da-acdb-ece871b9b039)
