@@ -51,3 +51,25 @@
 ![Screenshot from 2024-03-06 16-21-00](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/099606d8-c299-4891-85c3-16e022a78ea2)
 ![Screenshot from 2024-03-06 16-22-55](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/24096301-564c-4811-8868-980777a90f1b)
 ![Screenshot from 2024-03-06 16-22-58](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/b8839167-debd-42da-acdb-ece871b9b039)
+---
+### 12. 가장 적은 차종을 지원하는 동네는??
+![Screenshot from 2024-03-06 16-24-21](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/2ec2020d-4b6b-4764-96f9-1127a3fb0cb5)
+![Screenshot from 2024-03-06 16-24-30](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/40683da7-e807-401c-a8c0-45eed26f126c)
+![Screenshot from 2024-03-06 16-24-33](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/5fb9b8a6-f547-44f3-b1cc-54b605f4067c)
+--- 
+### 13. 결론
+#### 1. 연도별로 전기차의 등록 대수가 꾸준히 증가 하고 있으며 그에따른 충전소도 같이 증가하는 추세이긴 하나....
+####    아직 인프라가 부족한 상황
+
+#### 2. 서울시에서 전기차 사용 용도는 사업용으로 41% 비사업융 58%
+
+#### 3. 승용차는 강남/서초/송파/구로에 많이 등록
+####    승합은 양천/구로/성동/성북
+####    화물은 송파/강서/중구
+####    특수는 도봉/마포
+
+#### 4. 강남 강서 등을 제외한 나머지 지역은 대부분 차량대비 충전소 갯수가 부족
+
+#### 5. 아래 동네들은 충전소들이 지원 차종이 많지 않으니 >> SM3 Z.E, 테슬라 추천
+![Screenshot from 2024-03-06 16-33-00](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/63fd50d4-fd3e-4f32-b4e8-e33cf4df07a0)
+---
