@@ -14,3 +14,12 @@
 ## 3. 프로젝트 기술
 ![Screenshot from 2024-03-06 16-04-04](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/839a80ae-ea15-44d9-b393-3c961f04e771)
 ![Screenshot from 2024-03-06 16-03-59](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/7392becd-9b75-48bc-ae7b-23e499dce791)
+---
+## 4. 데이터 수집
+![Screenshot from 2024-03-06 16-06-54](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/c515ebde-fc0a-4101-8382-0b2912281f7c)
+![Screenshot from 2024-03-06 16-06-45](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/1e314fa8-b2a4-42f9-80eb-ba41c8e6c4b9)
+---
+## 5. 데이터 가공 테이블 소개
+![Screenshot from 2024-03-06 16-07-54](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/2a76cca0-0e4e-4870-ac07-bb718a0ff29a)
+![Screenshot from 2024-03-06 16-07-48](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/6b52ad60-c371-4592-9b5b-7f9cfa9aecc9)
+![Screenshot from 2024-03-06 16-07-44](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/f348f2b3-6f02-4f19-a4cf-6c8a63e76f06)
