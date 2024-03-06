@@ -4,3 +4,6 @@
 ---
 ## 1. 프로젝트 소개
 ![Screenshot from 2024-03-06 15-59-31](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/59b33e0f-5715-4496-817d-350c1097b275)
+---
+## 2. 프로젝트 멤버
+![Screenshot from 2024-03-06 16-01-48](https://github.com/addinedu-ros-4th/eda-repo-2/assets/98201651/cabfbf5c-eb8c-4885-9180-6d8d3270c9b3)
